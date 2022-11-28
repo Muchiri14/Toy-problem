@@ -2,7 +2,7 @@
 
 //Return grade of the student depending on their score//
 function grades(score) {
-    if(score > 79) {
+    if(score > 79 && score<=100) {
         return "A";
     }
     else if (score >= 60 && score <= 79) {
@@ -14,7 +14,8 @@ function grades(score) {
     else if (score >= 40 && score <= 49) {
         return "D";
     }
-    else {
+    else if(score >= 0 && score <= 40){
         return "E";
-    }
+    }else return 'not valid mark'
 }
+console.log(grades(900))

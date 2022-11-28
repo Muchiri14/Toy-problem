@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Muchiri14/Toy-problem/issues"
   },
-  "homepage": "https://github.com/Muchiri14/Toy-problem#readme"
+  "homepage": "https://github.com/Muchiri14/Toy-problem#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
