@@ -1,0 +1,19 @@
+{
+  "name": "toy-problem",
+  "version": "1.0.0",
+  "description": "Toy-problem",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muchiri14/Toy-problem.git"
+  },
+  "author": "Daniel Muchiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muchiri14/Toy-problem/issues"
+  },
+  "homepage": "https://github.com/Muchiri14/Toy-problem#readme"
+}
