@@ -1,6 +1,6 @@
-//Create a function that shows students grades
+//Create a function that shows students grades//
 
-//Return grade of the student depending on their score
+//Return grade of the student depending on their score//
 function grades(score) {
     if(score > 79) {
         return "A";
