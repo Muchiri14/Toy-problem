@@ -1,10 +1,26 @@
 # Toy-problem
-TITLE : CODE CHALLENGE
 
-DESCRIPTION : The project entails performing three various code challenges and acheiving their objectives. The first challenge was creating a function that showed students grades. The Second Challenge was creating a function that on speed detection. The Third Challenge was creating a Net Salary Calculator.
+# Description
+This is a Code Challenge to create functionality of three challenges;
 
-PROJECT SETUP : The project used Javascript language to create the commands.
+- The first challenge was to create a program that gennerate student grades according to their performance.
+- The second challenge involved crreating a programne that detects speed.
+- The third challenge was to create a function that calculates one's net salary.
 
-AUTHOR : Daniel Muchiri
+# Project Setup
 
-LICENSE : ISC
+The project used javascript language to execute the commands and the functionality.
+
+# Running the application
+
+To run the application we used the command node followed by the name of the file.
+- node index.js
+- node salary.js
+- node speed.js
+
+# Author
+
+Daniel Muchiri
+
+# LIcense
+ISC
